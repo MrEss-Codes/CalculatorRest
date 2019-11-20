@@ -1,0 +1,6 @@
+---
+applications:
+- name: CalculatorRest
+  memory: 256M
+  instances: 1
+  path: build/libs/CalculatorRest-1.0.0.jar
