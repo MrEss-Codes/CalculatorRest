@@ -32,6 +32,7 @@ and just type mvn spring-boot:run
 This should serve the rest api and allow you to access it through http://localhost:5000/calculator/add?operands=
 
 //UnitTest
+
 the unit test in this project is quite small and I ran through IntelliJ using JUnit plugin.
 Just change the run config to the CoreUnitTest and run it. The JUnit java file is part of the project, 
 so you can always import it and use it in whatever IDE you want. 
