@@ -8,10 +8,12 @@ Alternatively you can run it through command line. I'll put a guide futher down 
 
 
 //IMPORTING PROJECT
+
 When importing the project with IntelliJ go to Import Project and click build.gradle file
-The project should then be to run. You can run the UnitTest to test the logic or just run the application and test it out yourself.
+The project should then be able to run. You can run the UnitTest to test the logic or just run the application and test it out yourself.
 
 //DEFAULT LINK
+
 Default link to the calculator is http://localhost:5000/calculator/add?operands=
 You should be able to just click the links from the pdf that you linked. 
 
@@ -20,6 +22,7 @@ src/main/resources/application.properties
 Here you can change the server port to whatever
 
 //RUNNING THE PROJECT IN COMMANDLINE
+
 Follow these two guides to make sure that you're set up right. 
 https://www.mkyong.com/maven/how-to-install-maven-in-windows/
 https://www.mkyong.com/java/how-to-set-java_home-on-windows-10/
