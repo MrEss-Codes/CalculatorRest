@@ -24,7 +24,7 @@ Follow these two guides to make sure that you're set up right.
 https://www.mkyong.com/maven/how-to-install-maven-in-windows/
 https://www.mkyong.com/java/how-to-set-java_home-on-windows-10/
 
-After these to are installed and set up, then open command line navigate to the root directory of CalculatorRest
+After these two are installed and set up, then open command line navigate to the root directory of CalculatorRest
 and just type mvn spring-boot:run
 This should serve the rest api and allow you to access it through http://localhost:5000/calculator/add?operands=
 
